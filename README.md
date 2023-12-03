@@ -21,6 +21,7 @@ Currently, the repository includes implementations in the following languages:
 
 - [C++]
 - [Typescript]
+- [Javascript]
 
 Feel free to contribute by adding implementations in additional languages.
 
