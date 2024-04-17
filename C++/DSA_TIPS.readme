@@ -1,0 +1,3 @@
+`https://leetcode.com/problems/missing-number/` 
+This can be solved using both the mathematical sum of number approach(Brute Force) 
+bitwise XOR operator can also be used to solve this question(More optimized)
